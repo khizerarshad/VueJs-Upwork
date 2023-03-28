@@ -1,0 +1,29 @@
+{
+  "totalItems": 9000,
+  "items": [
+    {
+      "period": "month",
+      "date": "2022-12",
+      "country": "US",
+      "count": 1500
+    },
+    {
+      "period": "month",
+      "date": "2022-12",
+      "country": "UA",
+      "count": 2000
+    },
+    {
+      "period": "month",
+      "date": "2023-01",
+      "country": "US",
+      "count": 3750
+    },
+    {
+      "period": "month",
+      "date": "2023-01",
+      "country": "UA",
+      "count": 1750
+    }
+  ]
+}
